@@ -9,6 +9,7 @@ https://vinecnt.github.io/unity_unit1_game/
 
 ## Instructions
 - Try to drive two cars at the same time without crashing
+- Change camera angle ```r```
 - Player 1
   - Drive Forward ```w```
   - Reverse ```s```
